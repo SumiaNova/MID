@@ -1,0 +1,18 @@
+.container-fluid{
+    display: flex;
+}
+.container-fluid-left{
+padding: 50px;
+}
+.Courses{
+    background-color: rgb(234, 240, 248);
+    text-align: center;
+    margin: 0.5in;
+}
+.testimonial{
+    text-align: center;
+    padding: 30px;
+}
+.testimonial{
+    text-color: black;
+}
